@@ -1,8 +1,7 @@
 ---
 name: Bug Report
 about: Report a problem you experienced with Chisel
-labels:
-    - improvement=BugFix
+labels: improvement=BugFix
 ---
 
 ### Checklist
