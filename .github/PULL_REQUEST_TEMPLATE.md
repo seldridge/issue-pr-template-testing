@@ -1,8 +1,3 @@
----
-name: Pull Request
-about: Propose a modification to the FIRRTL codebase
----
-
 ### Checklist
 
 - [ ] Did you specify the type of improvement?
